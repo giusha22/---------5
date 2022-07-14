@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: o;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+
+h1 {
+    width: 100px;
+    height: 100px;
+    background-image: url(../img/music-note.png);
+    background-repeat: no-repeat;
+    background-size: 100px;
+    
+
+}
+h1 a{
+    display: block;
+    width: 94px;
+    height: 94px ;
+    
+}
+header{
+    background-color: #000000;
+    height: 94px;
+    width: 100%;
+}
+li a{
+    float: left;
+     margin-right: 30px;
+     margin-top: 20px;
+     color: #ffff;
+     margin-left: 200px;
+    }
+    section img{
+        width: 24%;
+        padding: 20px;
+    }
+    h3{
+        font-size: 18px;
+
+    }
+.one{
+    font-size: 14px;
+}
+h2{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 110px;
+    margin-right: 1200px;
+    font-size: 24px;
+    color: #000000;
+}
+
+.box{
+    border: 1px solid #000000;
+    position: absolute;
+
+}
+.position1{
+    position: relative;
+    left: 170px;
+    bottom: 100px;
+}
